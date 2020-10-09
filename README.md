@@ -3,13 +3,19 @@
 This repositories contain all the algorithm .
 Contribute in this repository with your desired language . 
 
+## Some of the types 
+- Tree Algo
+- Graphs Algo
+- Search Algo
+
+
 ## 🤝 HOW TO CONTRIBUTE?
 - Fork the Repository.
 - Than clone your forked repository (https://github.com/yourusername/Algorithms).
 - Work on any algorithms.
 - Create a folder if not present for your algorithm.
   - Eg: <ol>
-            <li>Folder name - Seacrhing Algo</li>
+            <li>Folder name - Search Algo</li>
             <li>Sub Folder name - linear_search</li>
            <li>File name - linear.py,linear.cpp etc</li>
         </ol>
